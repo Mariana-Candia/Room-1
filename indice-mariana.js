@@ -1,0 +1,1 @@
+let integrantes = ['Julieta', 'Gian', 'Mariana', 'Maxi', 'Sofia' ]
