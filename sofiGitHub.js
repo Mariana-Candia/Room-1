@@ -4,3 +4,7 @@
 //cambio mi archivo
 
 //cambio denuevo mi archivo
+
+function hola(){
+    console.log("Hola como estas");
+}
